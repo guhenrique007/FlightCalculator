@@ -4,7 +4,8 @@ Application to calculate the lowest possible travel ticket price, considering di
 
 The file 'voos.csv' has some informations of route and your price.
 
-`GRU,BRC,10
+```
+GRU,BRC,10
 
 GRU,SCL,18
 
@@ -16,4 +17,5 @@ SCL,ORL,20
 
 BRC,SCL,5
 
-ORL,CDG,5`
+ORL,CDG,5
+```
