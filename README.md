@@ -16,7 +16,7 @@ ORL,CDG,5
 
 To research the price of a route, must call:
 
-* Request
+- Request
   GET /quote/GRU/ORL
   
-** Installation instructions
+* Installation instructions
