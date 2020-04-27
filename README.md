@@ -13,3 +13,9 @@ SCL,ORL,20
 BRC,SCL,5
 ORL,CDG,5
 ```
+
+To research the price of a route, must call:
+
+* Request
+  GET /quote/GRU/ORL
+  
