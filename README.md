@@ -19,4 +19,8 @@ To research the price of a route, must call:
 - Request
   GET /quote/GRU/ORL
   
-* Installation instructions
+Installation instructions:
+
+ * clone the repository
+ * npm install
+ * npm start
