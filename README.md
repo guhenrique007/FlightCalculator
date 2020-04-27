@@ -1,6 +1,6 @@
 # FlightCalculator
 
-Application to calculate the lowest possible travel ticket price, considering different routes.
+Application to calculate the lowest possible travel ticket price (considering different routes) with Dijkstra's algorithm.
 
 The file 'voos.csv' has some informations of route and your price.
 
